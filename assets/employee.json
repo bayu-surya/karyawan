@@ -1,0 +1,82 @@
+[
+  {
+    "id": "0",
+    "no_induk": "IP06001",
+    "name": "Agus",
+    "address": "Jln Gaja Mada no 12, Surabaya",
+    "birth_date": "11-Jan-80",
+    "join_date": "07-Aug-05"
+  },
+  {
+    "id": "1",
+    "no_induk": "IP06002",
+    "name": "Amin",
+    "address": "Jln Imam Bonjol no 11, Mojokerto",
+    "birth_date": "03-Sep-77",
+    "join_date": "07-Aug-05"
+  },
+  {
+    "id": "2",
+    "no_induk": "IP06003",
+    "name": "Yusuf",
+    "address": "Jln A Yani Raya 15 No 14 Malang",
+    "birth_date": "09-Aug-73",
+    "join_date": "07-Aug-06"
+  },
+  {
+    "id": "3",
+    "no_induk": "IP06004",
+    "name": "Alyssa",
+    "address": "Jln Bungur Sari V no 166, Bandung",
+    "birth_date": "18-Mar-83",
+    "join_date": "06-Sep-06"
+  },
+  {
+    "id": "4",
+    "no_induk": "IP06005",
+    "name": "Maulana",
+    "address": "Jln Candi Agung, No 78 Gg 5, Jakarta",
+    "birth_date": "10-Nov-78",
+    "join_date": "10-Sep-06"
+  },
+  {
+    "id": "5",
+    "no_induk": "IP06006",
+    "name": "Agfika",
+    "address": "Jln Nangka, Jakarta Timur",
+    "birth_date": "07-Feb-79",
+    "join_date": "02-Jan-07"
+  },
+  {
+    "id": "6",
+    "no_induk": "IP06007",
+    "name": "James",
+    "address": "Jln Merpati, 8 Surabaya",
+    "birth_date": "18-May-89",
+    "join_date": "04-Apr-07"
+  },
+  {
+    "id": "7",
+    "no_induk": "IP06008",
+    "name": "Octavanus",
+    "address": "Jln A Yani 17, B 08 Sidoarjo",
+    "birth_date": "14-Apr-85",
+    "join_date": "19-May-07"
+  },
+  {
+    "id": "8",
+    "no_induk": "IP06009",
+    "name": "Nugroho",
+    "address": "Jln Duren tiga 167, Jakarta Selatan",
+    "birth_date": "01-Jan-84",
+    "join_date": "16-Jan-08"
+  },
+  {
+    "id": "9",
+    "no_induk": "IP06010",
+    "name": "Raisa",
+    "address": "Jln Kelapa Sawit, Jakarta Selatan",
+    "birth_date": "17-Dec-90",
+    "join_date": "16-Aug-08"
+  }
+]

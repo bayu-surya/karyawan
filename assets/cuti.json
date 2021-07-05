@@ -1,0 +1,44 @@
+[
+  {
+    "id": "0",
+    "no_induk": "IP06001",
+    "tgl_cuti": "02-Aug-20",
+    "lama_cuti": "2",
+    "keterangan": "Acara Keluarga"
+  },
+  {
+    "id": "1",
+    "no_induk": "IP06001",
+    "tgl_cuti": "18-Aug-20",
+    "lama_cuti": "2",
+    "keterangan": "Anak Sakit"
+  },
+  {
+    "id": "2",
+    "no_induk": "IP06006",
+    "tgl_cuti": "19-Aug-20",
+    "lama_cuti": "1",
+    "keterangan": "Nenek Sakit"
+  },
+  {
+    "id": "3",
+    "no_induk": "IP06007",
+    "tgl_cuti": "23-Aug-20",
+    "lama_cuti": "1",
+    "keterangan": "Sakit"
+  },
+  {
+    "id": "4",
+    "no_induk": "IP06004",
+    "tgl_cuti": "29-Aug-20",
+    "lama_cuti": "5",
+    "keterangan": "Menikah"
+  },
+  {
+    "id": "5",
+    "no_induk": "IP06003",
+    "tgl_cuti": "30-Aug-20",
+    "lama_cuti": "2",
+    "keterangan": "Acara Keluarga"
+  }
+]
